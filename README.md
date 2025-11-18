@@ -110,4 +110,4 @@ It serves as part of a growing Business Intelligence portfolio.
 Tomasz Gwiazda
 Aspiring Data Analyst / Business Intelligence Analyst
 📍 Poland
-🔗 GitHub: https://github.com/tomgw88
+🔗 GitHub: https://github.com/tomgw88](https://github.com/tomgw88/Sales-Analytics-Dashboard)
