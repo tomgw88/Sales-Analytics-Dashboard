@@ -107,7 +107,7 @@ It serves as part of a growing Business Intelligence portfolio.
 
 👤 Author
 
-Tomasz
+Tomasz Gwiazda
 Aspiring Data Analyst / Business Intelligence Analyst
 📍 Poland
 🔗 GitHub: https://github.com/tomgw88
